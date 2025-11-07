@@ -130,7 +130,7 @@ const Hero = () => {
             <div className="relative w-full max-w-lg h-auto overflow-hidden rounded-2xl shadow-2xl ring-1 ring-white/10 animate-float">
               {/* Programming context image */}
               <img
-                src="/images/developer-coding.jpeg"
+                src="/images/3.webp"
                 alt="Developer working on code"
                 className="w-full h-auto object-cover"
                 loading="lazy"
